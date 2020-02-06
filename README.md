@@ -20,6 +20,7 @@ On the back-end,
 - add frameworks and packages in `package.json`
 - safely store app secrets in `.env` (nobody can see this but you and people you invite)
 
+Live App : https://kindhearted-megalosaurus-1cnw8j33aw.glitch.me
 
 Made by [Glitch](https://glitch.com/)
 -------------------
